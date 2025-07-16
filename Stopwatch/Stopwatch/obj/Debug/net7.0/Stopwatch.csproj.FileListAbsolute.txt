@@ -1,0 +1,14 @@
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\bin\Debug\net7.0\Stopwatch.exe
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\bin\Debug\net7.0\Stopwatch.deps.json
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\bin\Debug\net7.0\Stopwatch.runtimeconfig.json
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\bin\Debug\net7.0\Stopwatch.dll
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\bin\Debug\net7.0\Stopwatch.pdb
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\obj\Debug\net7.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\obj\Debug\net7.0\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\obj\Debug\net7.0\Stopwatch.AssemblyInfo.cs
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\obj\Debug\net7.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\obj\Debug\net7.0\Stopwatch.dll
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\obj\Debug\net7.0\refint\Stopwatch.dll
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\obj\Debug\net7.0\Stopwatch.pdb
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\obj\Debug\net7.0\Stopwatch.genruntimeconfig.cache
+C:\Users\Gilsonfilho\Source\Repos\Gilsonfilho1\Balta\Stopwatch\Stopwatch\obj\Debug\net7.0\ref\Stopwatch.dll
